@@ -30,6 +30,7 @@ flet-web==0.28.3
 fonttools==4.60.1
 fpdf2==2.8.5
 gTTS==2.5.4
+gunicorn
 h11==0.16.0
 html5lib==1.1
 httpcore==1.0.9
